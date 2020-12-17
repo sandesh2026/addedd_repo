@@ -1,0 +1,3 @@
+[submodule "newproject2"]
+	path = newproject2
+	url = https://gitlab.com/sandesh2026/newproject2.git
